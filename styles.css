@@ -30,7 +30,6 @@ body {
     top: 20px;
     right: 20px;
     font-weight: bold;
-    color: white;
 }
 
 .semester-list {
@@ -40,7 +39,8 @@ body {
 }
 
 .semester-link {
-    color: inherit;
+    /* color: inherit; */
+    color: white;
     text-decoration: none;
     transition: font-style 0.2s ease;
 }
