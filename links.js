@@ -6,7 +6,7 @@ const links = [
     },
     {
         title: "Symposium",
-        url: "https://yaleedu-my.sharepoint.com/:w:/g/personal/tiriree_kananuruk_yale_edu/IQCAyhHEgh7dTYAaY-ilykOAASRZyr2j3kLoS8GCjtOHs5A?e=vTASZD",
+        url: "https://yaleedu-my.sharepoint.com/:w:/g/personal/tiriree_kananuruk_yale_edu/IQCRbXZjr-xfTbaLI874mLv4ASFPjkE4xtE-BQ0FAn15HFw?email=laura.caprilesguardia%40yale.edu&e=YoyFDh",
         description: "Student symposium"
     }
 ];
