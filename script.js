@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const symposiumData = links.find(link => link.title === 'Symposium');
     
     let livePeopleData = [];
-    const SHEETS_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSH99PAW5BOSq7_GmWCmjLua53-ZE68aDiOq29NvVYmNJKa3uXpbWP_byAQxUbpJ9its6u6Ym6uMYe4/pub?gid=0&single=true&output=tsv';
+    const SHEETS_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRQzUET79RrIF13U7zjfHrvfJbkiQieZAxYnLJoJzPkQWnEByvqitaJjkghPoAPYNPpTjPV9rens_xs/pub?output=tsv';
     
     if (syllabusData) {
         syllabusLink.addEventListener('click', function() {
