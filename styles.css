@@ -40,7 +40,7 @@ body {
 
 .semester-link {
     /* color: inherit; */
-    color: white;
+    color: rgb(251, 247, 239);
     text-decoration: none;
     transition: font-style 0.2s ease;
 }
