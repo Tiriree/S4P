@@ -1,7 +1,7 @@
 const links = [
     {
         title: "Syllabus",
-        url: "https://tiri.notion.site/Software-for-People-Spring-26-2e33700074c68005b41ace3a339392e5?source=copy_link",
+        url: "https://tiri.notion.site/Software-for-People-Fall-26-3453700074c6808fa4e6d81922d4abb7?source=copy_link",
         description: "Course syllabus"
     },
     {
@@ -12,6 +12,7 @@ const links = [
 ];
 
 const semesterLinks = {
+    fall26: "https://tiri.notion.site/Software-for-People-Fall-26-3453700074c6808fa4e6d81922d4abb7?source=copy_link",
     spring26: "https://tiri.notion.site/Software-for-People-Spring-26-2e33700074c68005b41ace3a339392e5?source=copy_link", 
     fall25: "https://tiriree.github.io/S4P-F25/",
     spring25: "https://tiriree.github.io/S4P25/"
